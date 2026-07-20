@@ -181,7 +181,7 @@ export function Event({ openEnvelope }: any) {
         <motion.p {...anim} className="relative text-sovorakan  text-2xl my-10">
           <span className=" text-sovorakan text-2xl mt-10">{txt3}</span>
 
-          <Link href="">
+          <Link href="https://www.google.com/maps/place/nur+restoran/data=!4m2!3m1!1s0x406abe6dcb2f996b:0x6c67cea91f760e02?sa=X&ved=1t:242&hl=ru-RU&ictx=111">
             <span className=" flex items-center gap-2 justify-center mt-5 relative">
               <span>Հասցե</span>
 
