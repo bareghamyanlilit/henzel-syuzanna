@@ -6,7 +6,6 @@ import { MusicPlayer } from "./music";
 import { anim, calendar, date, name, txt1, txt1_1, txt2, txt2_1, txt3 } from "@/data/data";
 import { motion } from "framer-motion";
 import AttendanceGuests from "./RSVP";
-import { Program } from "./Program";
 import { Footer } from "./footer";
 import Link from "next/link";
 
