@@ -49,11 +49,11 @@ export function Event({ openEnvelope }: any) {
           style={{ backgroundImage: "url('/img1.jpg')" }}
         >
           <div className="flex items-center justify-center">
-            <h2 className="text-[64px] mb-20 text-white text-shadow-red-900  text-shadow-2xs -mr-20">{name[0]}</h2>
+            <h2 className="text-[64px] mb-20 text-white  -mr-20">{name[0]}</h2>
             <span className="text-9xl text-taki"> & </span>
-            <h2 className="text-[64px] mt-20 text-white text-shadow-red-900  text-shadow-2xs -ml-13">{name[1]}</h2>
+            <h2 className="text-[64px] mt-20 text-white -ml-13">{name[1]}</h2>
           </div>
-          <p className="FontSHK_Dzeragir text-[64px] text-shadow-red-900 text-shadow-2xs  text-white">{date}</p>
+          <p className="FontSHK_Dzeragir text-[64px]  text-white">{date}</p>
         </div>
 
         {/* 2rd mas teqster */}
